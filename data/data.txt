@@ -1,0 +1,1 @@
+resident1,resident@gmail.com,1111,102,single,0
